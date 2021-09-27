@@ -1,16 +1,28 @@
-### Hi there 👋
+![sonic hi](https://github.com/Tekislla/Tekislla/blob/main/sonic%20hi.gif)
 
-<!--
-**Tekislla/Tekislla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Meu nome é João Pedro e eu almejo me tornar um programador!
 
-Here are some ideas to get you started:
+🎓 Formado como técnico em informática no Instituto Federal Catarinense, com foco em desenvolvimento web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atualmente cursando engenharia de software no Centro Universitário Católica de Santa catarina
+
+🤓 Possuo um bom raciocínio lógico e tenho facilidade para aprender
+
+🤔 Até o momento, não possuo experiência profissional na área de programação, apenas acadêmica
+
+💼 No entanto, estou procurando ingressar no mercado de trabalho para iniciar minha jornada como developer
+
+#### Informações adicionais
+
+🏆 Alguns me chamam de rei do truco
+
+🎮 Melhor jogador de league of legends da minha rua
+
+### Acredita no meu potencial? Entre em contato comigo!
+
+📩 jplazarim@gmail.com
+
+![sonic coffee](https://github.com/Tekislla/Tekislla/blob/main/sonic%20coffee.gif)
+
+![Tekislla's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekislla&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tekislla&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
