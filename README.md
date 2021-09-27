@@ -22,7 +22,7 @@
 
 📩 jplazarim@gmail.com
 
-![sonic coffee](https://github.com/Tekislla/Tekislla/blob/main/sonic%20coffee.gif)
+![sonic bye](https://github.com/Tekislla/Tekislla/blob/main/sonic%20bye.gif)
 
 ![Tekislla's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekislla&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tekislla&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
