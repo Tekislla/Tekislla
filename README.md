@@ -16,8 +16,8 @@
 
 
 
-
-# Informações adicionais ![sonic chill](https://github.com/Tekislla/Tekislla/blob/main/sonic%20chill.gif)
+![sonic chill](https://github.com/Tekislla/Tekislla/blob/main/sonic%20chill.gif)
+# Informações adicionais 
 🏆 Alguns me chamam de rei do truco
 
 🎮 Melhor jogador de league of legends da minha rua
