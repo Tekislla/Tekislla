@@ -9,9 +9,7 @@
 
 🤓 Possuo um bom raciocínio lógico e tenho facilidade para aprender
 
-🤔 Até o momento, não possuo experiência profissional na área de programação, apenas acadêmica
-
-💼 No entanto, estou procurando ingressar no mercado de trabalho para iniciar minha jornada como developer
+💼 Trabalho como desenvolvedor back-end, utilizando principalmente Java
 
 
 
