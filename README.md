@@ -29,6 +29,7 @@
 
 # Dúvidas? Entre em contato comigo!
 📲 (47) 99198-5098
+
 📩 jplazarim@gmail.com
 
 ![sonic bye](https://github.com/Tekislla/Tekislla/blob/main/sonic%20bye.gif)
