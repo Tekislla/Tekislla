@@ -1,7 +1,7 @@
 
 # Olá mundo! ![sonic hi](https://github.com/Tekislla/Tekislla/blob/main/sonic%20hi.gif)
 
-#### Meu nome é João Pedro e eu almejo me tornar um programador!
+#### Meu nome é João Pedro e eu almejo me tornar um grande programador!
 
 🎓 Formado como técnico em informática no Instituto Federal Catarinense, com foco em desenvolvimento web
 
@@ -9,16 +9,18 @@
 
 🤓 Possuo um bom raciocínio lógico e tenho facilidade para aprender
 
-💼 Trabalho como desenvolvedor back-end, utilizando principalmente Java
+💼 Trabalho como desenvolvedor Java, porém, estou aberto a propostas
+
+📒 Em constante evolução, fazendo novos cursos e adquirindo novos conhecimentos
 
 
 
 
 ![sonic chill](https://github.com/Tekislla/Tekislla/blob/main/sonic%20chill.gif)
 # Informações adicionais 
-🏆 Alguns me chamam de rei do truco
+🏆 Rei do truco
 
-🎮 Melhor jogador de league of legends da minha rua
+🎮 Melhor jogador de league of legends do meu condomínio
 
 🎧 Faço stream nas horas vagas
 
@@ -27,7 +29,7 @@
 
 
 
-# Dúvidas? Entre em contato comigo!
+# Dúvidas ou propostas? Entre em contato comigo!
 📲 (47) 99198-5098
 
 📩 jplazarim@gmail.com
