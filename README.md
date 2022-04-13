@@ -9,8 +9,7 @@
 
 🤓 Possuo um bom raciocínio lógico e tenho facilidade para aprender
 
-💼 Trabalho como desenvolvedor Java, porém, estou aberto a propostas
-
+💼 Trabalho como desenvolvedor backend Java, na empresa ConexãoNF-E
 📒 Em constante evolução, fazendo novos cursos e adquirindo novos conhecimentos
 
 
