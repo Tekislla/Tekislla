@@ -1,7 +1,7 @@
 
 # Olá mundo! ![sonic hi](https://github.com/Tekislla/Tekislla/blob/main/sonic%20hi.gif)
 
-#### Meu nome é João Pedro, e eu sou um programador!
+#### Meu nome é João Pedro!
 
 🎓 Formado como técnico em informática no Instituto Federal Catarinense, com foco em desenvolvimento web
 
@@ -9,7 +9,7 @@
 
 🤓 Possuo um bom raciocínio lógico e tenho facilidade para aprender
 
-💼 Trabalho como desenvolvedor backend Java, na empresa ConexãoNF-E
+💼 Trabalho como desenvolvedor backend Java, na empresa ConexãoNF-e
 
 📒 Em constante evolução, fazendo novos cursos e adquirindo novos conhecimentos
 
@@ -20,7 +20,7 @@
 # Informações adicionais 
 🏆 Rei do truco
 
-🎮 Melhor jogador de league of legends do meu condomínio
+🎮 Melhor jogador de call of duty do mundo, e talvez do Brasil
 
 🎧 Faço stream nas horas vagas
 
