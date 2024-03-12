@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm João! ![sonic hi](https://github.com/Tekislla/Tekislla/blob/main/sonic%20hi.gif)
+# 👋 Hi, I'm João! ![sonic hi](https://github.com/Tekislla/Tekislla/blob/main/sonic%20hi.gif)
 
 
 🎓 Final-year Software Engineering student passionate about backend development. With a solid foundation as a Computer Technician from the Federal Institute of Santa Catarina and currently delving deep into the intricacies of Software Engineering at Centro Universitário Católica of Santa Catarina, I'm on a mission to harness the power of technology to build robust and scalable software solutions.
