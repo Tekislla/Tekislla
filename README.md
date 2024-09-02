@@ -6,7 +6,7 @@
 
 💻 Proficient in Java, I specialize in crafting efficient backend systems that drive seamless user experiences. Whether it's architecting resilient APIs or optimizing database performance, I thrive on the challenges of software development.
 
-💼 Working as software engineer at <a href="https://www.arquivei.com.br">Arquivei</a>
+💼 Working as software developer at <a href="[https://www.arquivei.com.br](https://www.mjvinnovation.com)">MJV Technology & Innovation</a>
 
 🤓 I have good logical reasoning and ease in learning new things
 
