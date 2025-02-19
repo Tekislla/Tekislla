@@ -1,28 +1,52 @@
+# Olá, eu sou João! 👋
+![sonic hi](https://github.com/Tekislla/Tekislla/blob/main/sonic%20hi.gif)
 
-# 👋 Hi, I'm João! ![sonic hi](https://github.com/Tekislla/Tekislla/blob/main/sonic%20hi.gif)
+## Sobre Mim
+Sou um engenheiro de software backend que trabalha principalmente com Java e Spring Boot. Tenho paixão por tecnologia e programação desde criança, e a curiosidade foi algo que sempre me motivou a aprender mais e mais.
 
+- **Formação**  
+  - Bacharel em Engenharia de Software – Centro Universitário Católica de Santa Catarina  
+  - Técnico em Informática – Instituto Federal Catarinense
+- **Experiência Profissional:**
+  - Engenheiro de Software na [MJV Technology & Innovation](https://www.mjvinnovation.com/pt-br)
+  - Engenheiro de Software na [Qive](https://qive.com.br)
+  - Desenvolvedor Fullstack na [ConexãoNF-e](https://cloud.conexaonfe.com.br)
+  - Desenvolvedor Web na [Gesplan](https://www.gesplan.com.br)
 
-🎓 Final-year Software Engineering student passionate about backend development. With a solid foundation as a Computer Technician from the Federal Institute of Santa Catarina and currently delving deep into the intricacies of Software Engineering at Centro Universitário Católica of Santa Catarina, I'm on a mission to harness the power of technology to build robust and scalable software solutions.
+## Habilidades Técnicas
+- **Linguagens:** Java, Kotlin, Python, Javascript 
+- **Tecnologias e Ferramentas:** APIs REST, Microservices, Spring Boot, Docker  
+- **Boas Práticas:** Arquitetura de Software, Design Patterns, Testes Automatizados, Performance e Escalabilidade
 
-💻 Proficient in Java, I specialize in crafting efficient backend systems that drive seamless user experiences. Whether it's architecting resilient APIs or optimizing database performance, I thrive on the challenges of software development.
+## Principais Projetos
+<div>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tekislla&theme=tokyonight&repo=legalflow)](https://github.com/Tekislla/legalflow)
 
-💼 Working as software developer at <a href="[https://www.arquivei.com.br](https://www.mjvinnovation.com)">MJV Technology & Innovation</a>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tekislla&theme=tokyonight&repo=salario-certo)](https://github.com/Tekislla/salario-certo)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tekislla&theme=tokyonight&repo=taskmanager)](https://github.com/Tekislla/taskmanager)
+  
+</div>
 
-🤓 I have good logical reasoning and ease in learning new things
+## Estatísticas do GitHub
+<div>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekislla&layout=compact&theme=tokyonight&custom_title=Linguagens%20Mais%20Utilizadas&exclude_repo=personal-sandbox,faculdade-sandbox,tecnico-sandbox,plantinha-iot" alt="Top Languages"/>
+  
+  <br />
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=tekislla&show_icons=true&theme=tokyonight&hide_rank=true&custom_title=Estatísticas%20de%20João" alt="GitHub Stats"/>
+  
+</div>
 
-🌱 Constantly learning and evolving, I'm enthusiastic about exploring new technologies and best practices in the ever-evolving landscape of software engineering.
+## Contato
+Entre em contato comigo para colaborações, projetos ou para trocar ideias:
+- 📞 +55 47 99198-5098  
+- 📧 jplazarim@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joão-pedro-lazarim-de-souza-819a4320a/)
 
+---
 
-# Inquiries or proposals? Contact me through one of the means below!
-📲 +55 47 99198-5098
-
-📩 jplazarim@gmail.com
-
-👥 <a href="https://www.linkedin.com/in/joão-pedro-lazarim-de-souza-819a4320a/">Linkedin</a>
-
-
-# ⛏ My github stats ![sonic bye](https://github.com/Tekislla/Tekislla/blob/main/sonic%20bye.gif)
-
-
-![Tekislla's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekislla&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tekislla&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+Obrigado por visitar meu perfil!
