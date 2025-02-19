@@ -14,7 +14,7 @@ Sou um engenheiro de software backend que trabalha principalmente com Java e Spr
   - Desenvolvedor Web na [Gesplan](https://www.gesplan.com.br)
 
 ## Habilidades Técnicas
-- **Linguagens:** Java, Kotlin, Python, Javascript 
+- **Linguagens de programação:** Java, Kotlin, Python, Javascript 
 - **Tecnologias e Ferramentas:** APIs REST, Microservices, Spring Boot, Docker  
 - **Boas Práticas:** Arquitetura de Software, Design Patterns, Testes Automatizados, Performance e Escalabilidade
 
